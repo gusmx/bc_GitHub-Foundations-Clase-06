@@ -1,4 +1,4 @@
-# Descripción del Proyecto
+# 📘 Descripción del Proyecto
 
 - El archivo [`package.json`](../package.json) especifica las dependencias del proyecto, es decir, las librerías y módulos externos que son necesarios para que la aplicación funcione correctamente.
 
